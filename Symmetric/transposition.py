@@ -1,4 +1,4 @@
-input_string = 'Ilovegit256'
+input_string = 'this just test string but it is real string'
 key = '632415'
 fill = 'a'
 def encrypt(key=key, input=input_string):
